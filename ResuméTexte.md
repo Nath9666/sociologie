@@ -8,7 +8,7 @@ Objectif : Comprendre les origines, impacts et transformations pour déconstruir
 
 ---
 
-### **1. Historique de la division sociosituée des savoirs**
+### **1. Historique de la division sociosiJtuée des savoirs**
 #### **1.1. L'origine des inégalités**
 - **Antiquité :** Les savoirs philosophiques et scientifiques étaient considérés comme des domaines exclusivement masculins. Les femmes étaient cantonnées à des tâches liées à leur rôle supposé dans la reproduction et la gestion domestique.
   - Exemple : Les philosophes grecs tels qu’Aristote justifiaient l’infériorité intellectuelle des femmes dans leurs écrits.
