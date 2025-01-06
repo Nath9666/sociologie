@@ -17,6 +17,8 @@ Les algorithmes et l’intelligence artificielle (IA) peuvent reproduire ou ampl
 - **Renforcement par optimisation** : Les algorithmes sont optimisés pour maximiser la performance, et non pour être équitables. Cela peut conduire à des décisions qui favorisent les groupes majoritaires ou les normes établies.
   - Par exemple, un algorithme de recrutement peut privilégier les candidats masculins si les données historiques montrent qu’ils ont été plus souvent embauchés.
 
+  - exemple sur l'aide pour les policier
+
 ---
 
 ### 3. **Conception et encodage des biais humains**
